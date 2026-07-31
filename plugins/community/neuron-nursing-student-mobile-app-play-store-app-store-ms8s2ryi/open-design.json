@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "neuron-nursing-student-mobile-app-play-store-app-store-ms8s2ryi",
+  "title": "Neuron Nursing — Student Mobile App (Play Store + App Store)",
+  "version": "0.1.0",
+  "description": "Neuron Nursing currently has no way to serve *already-admitted* students after they enroll. The public website only tracks a person through the admission/payment funnel (`Application` model, status: pending → awaiting_ve",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}
