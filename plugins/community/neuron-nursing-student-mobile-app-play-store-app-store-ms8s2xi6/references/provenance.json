@@ -1,0 +1,26 @@
+{
+  "candidateId": "0834d5b3-ef38-4fb7-a64e-6dc9ae2ae476",
+  "projectId": "ad94768a-f66d-460f-a1e0-8e96822ba3d9",
+  "runId": "22d18e19-4dfe-46ae-9974-6ca1b12ac6b5",
+  "conversationId": "2705f745-dc8b-4604-b536-e231d7be9cbf",
+  "provenance": {
+    "summary": "Detected from serene-wishing-mango.md, sharded-coalescing-fox.md after a successful run.",
+    "detectedAt": 1785491938816
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "serene-wishing-mango.md",
+      "label": "serene-wishing-mango.md",
+      "size": 22955,
+      "copied": true
+    },
+    {
+      "kind": "file",
+      "value": "sharded-coalescing-fox.md",
+      "label": "sharded-coalescing-fox.md",
+      "size": 17337,
+      "copied": true
+    }
+  ]
+}
